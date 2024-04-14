@@ -1,0 +1,33 @@
+#outer-box{
+    margin-top: 3rem;
+    width: 600px;
+    border-radius: 20px;
+    background-color: black;
+}
+
+#screen{
+    height: 8rem;
+    font-size: 50px; 
+    color: aqua;
+}
+
+#final-ans{
+    height: 8rem;
+    font-size: 50px;
+    color: aqua;
+}
+
+button{
+    height: 6rem;
+    background-color: rgb(28, 75, 77);
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-weight: bolder;
+    font-size: 3rem;
+}
+
+button:hover{
+    background-color: aqua;
+    color: black;
+}
